@@ -20,7 +20,7 @@ export const vTexto = {
         buttonSinup: 'Cerrar Sesión'
     },
     header: {
-        userName: 'Jordan Chuquimajo',
+        userName: 'Adrian',
         userProfile: "Perfil",
         logout: "Cerrar Sesión"
 
