@@ -1,6 +1,6 @@
 export const environment = {
     production: false,
-    BACKEND_URL: 'http://localhost:3000/' + 'api/v1/',
+    BACKEND_URL: 'https://footloose-backend.onrender.com/' + 'api/v1/',
 }
 
 
