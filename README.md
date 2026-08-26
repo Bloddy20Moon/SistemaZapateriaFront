@@ -1,6 +1,6 @@
-# Footloose - Sistema de Gestión de Zapatería (Frontend)
+# Sistema de Gestión de Zapatería (Frontend)
 
-Este es el repositorio del frontend de **Footloose**, un sistema web moderno de gestión de inventario, usuarios y roles diseñado para tiendas de calzado.
+Este es el repositorio del frontend de **un sistema de zapateria**, un sistema web moderno de gestión de inventario, usuarios y roles diseñado para tiendas de calzado.
 
 El proyecto está construido con **Angular 17**, aprovechando tecnologías modernas como **Angular Signals** para el manejo del estado, **SSR (Server-Side Rendering)** y una arquitectura limpia orientada a componentes.
 
@@ -8,7 +8,7 @@ El proyecto está construido con **Angular 17**, aprovechando tecnologías moder
 
 ## 🔗 Enlaces del Proyecto
 
-*   **Demo en Vivo (Frontend - Vercel):** [https://github.com/Bloddy20Moon/SistemaZapateriaFront](https://github.com/Bloddy20Moon/SistemaZapateriaFront) *(Configura aquí la URL final que te dé Vercel)*
+*   **Demo en Vivo (Frontend - Vercel):** [https://sistema-zapateria-nonfeckfq-adrian-alva.vercel.app/login](https://sistema-zapateria-nonfeckfq-adrian-alva.vercel.app/login) 
 *   **API Backend (Render):** [https://footloose-backend.onrender.com/](https://footloose-backend.onrender.com/)
 *   **Repositorio del Backend:** [Bloddy20Moon/SistemaZapateriaBack](https://github.com/Bloddy20Moon/SistemaZapateriaBack)
 
