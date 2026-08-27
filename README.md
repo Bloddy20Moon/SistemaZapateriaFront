@@ -8,7 +8,7 @@ El proyecto está construido con **Angular 17**, aprovechando tecnologías moder
 
 ## 🔗 Enlaces del Proyecto
 
-*   **Demo en Vivo (Frontend - Vercel):** [https://sistema-zapateria-nonfeckfq-adrian-alva.vercel.app/login](https://sistema-zapateria-nonfeckfq-adrian-alva.vercel.app/login) 
+*   **Demo en Vivo (Frontend - Vercel):** [https://sistema-zapateria-nonfeckfq-adrian-alva.vercel.app/login](https://sistema-zapateria-nonfeckfq-adrian-alva.vercel.app/login) (Nota: Al estar en el plan gratuito de Render, el primer acceso puede demorar ~50 segundos en arrancar mientras el contenedor se reactiva).
 *   **API Backend (Render):** [https://footloose-backend.onrender.com/](https://footloose-backend.onrender.com/)
 *   **Repositorio del Backend:** [Bloddy20Moon/SistemaZapateriaBack](https://github.com/Bloddy20Moon/SistemaZapateriaBack)
 
